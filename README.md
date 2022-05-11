@@ -8,6 +8,7 @@ I'm currently undertaking my bachelor's in Software Engineering after switching 
 
 * 🌍  I'm based in Berlin, Germany
 * ✉️  You can contact me at [alexandre.costa@code.berlin](mailto:alexandre.costa@code.berlin)
+* 🚀  I'm currently working on [ambient](https://github.com/Costa-Alexandre/ambient-FE)
 * 🧠  I'm learning Automated Testing and Clean Code
 
 <a href="https://www.github.com/Costa-Alexandre" target="_blank" rel="noreferrer"><img
