@@ -4,7 +4,7 @@ Hi 👋 My name is Alex Costa
 Full-Stack Developer
 --------------------
 
-I'm currently undertaking my bachelor's in Software Engineering after switching from a career in Economics. I have developed a passion for web development, both front and backend.
+I'm currently undertaking my bachelor's in Software Engineering after switching from a career in Economics. I have found a passion for web development, full-stack.
 
 * 🌍  I'm based in Berlin, Germany
 * ✉️  You can contact me at [alexandre.costa@code.berlin](mailto:alexandre.costa@code.berlin)
