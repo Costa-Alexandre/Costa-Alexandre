@@ -4,12 +4,13 @@ Alex Costa
 Full-Stack Web Developer
 --------------------
 
-I'm currently undertaking my bachelor's in Software Engineering after switching from a career in Economics. I have found a passion for web development.
+I started my career as an Economist in the fast-paced civil aviation industry, where my team led the successful privatization of major Brazilian airports. However, I soon discovered my true passion lay in coding. Self-teaching programming languages enabled me to excel in my role. This realization drove me to pursue a formal education in Software Engineering, further fueling my dedication to this field.
+I'm writing my Bachelor's Thesis and finishing my Capstone project at CODE University.
 
 * 🌍  I'm based in Berlin, Germany
 * ✉️  You can contact me at [alexandre.costa@code.berlin](mailto:alexandre.costa@code.berlin)
-* 🚀  I'm currently working as a Web Developer for [Formlabs](https://formlabs.com), a 3D printing technology developer and manufacturer based in Massachusetts, USA. 
-* 🧠  I'm learning Cyber Security and Data Bases
+* 🚀  I'm currently a Fullstack Web Developer for [Formlabs](https://formlabs.com), a 3D printing technology developer and manufacturer based in Massachusetts, USA. 
+* 🧠  I'm eager to learn C# and Unity next
 
 <a href="https://www.github.com/Costa-Alexandre" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Costa-Alexandre?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
